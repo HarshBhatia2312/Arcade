@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Spartan", sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+#header {
+    padding: 20px 80px;
+    background: #ffffff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    text-align: center;
+}
+
+#header .logo{
+    width: 500px;
+    height: 150px;
+}
+
+.box{
+    padding: 20px 80px;
+    background: #ffffff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: separate;
+}
+
+th,td{
+    padding: 20px;
+}
+
+td{
+    text-align: center;
+    font-weight: 500;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif, Courier, monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+table{
+    border-spacing: 20px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+}
